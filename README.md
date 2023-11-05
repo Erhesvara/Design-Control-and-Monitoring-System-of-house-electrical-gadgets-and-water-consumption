@@ -9,4 +9,4 @@ _Using a dashboard to monitor the electrics and water consumption of Every Gadge
 Objectives:
 - To lessen the water and electric bills
 - To monitor gadgets consumption
-- To have tips and idea on how to lessen bills. 
+- To have tips/recommendation and idea on how to lessen bills. 

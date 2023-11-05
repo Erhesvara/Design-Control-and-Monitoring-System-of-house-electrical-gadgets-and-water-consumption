@@ -5,3 +5,8 @@ Venn Diagram - identify the target stakeholders or community and indicate the SD
 Design Control and Monitoring System of House Electrical Gadgets and Water Consumption
 
 _Using a dashboard to monitor the electrics and water consumption of Every Gadgets in the house_
+
+Objectives:
+- To lessen the water and electric bills
+- To monitor gadgets consumption
+- To have tips and idea on how to lessen bills. 

@@ -12,4 +12,4 @@ Objectives:
 - To have tips/recommendation and idea on how to lessen bills. 
 
 Technology:
-- no idea
+-

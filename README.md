@@ -10,3 +10,6 @@ Objectives:
 - To lessen the water and electric bills
 - To monitor gadgets consumption
 - To have tips/recommendation and idea on how to lessen bills. 
+
+Technology:
+- no idea
